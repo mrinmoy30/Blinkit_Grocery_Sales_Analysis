@@ -140,7 +140,3 @@ The following visualizations were created (on a 16:9 canvas) to address the busi
 - The outlet established in **2018** is the top performer by a large margin, with **₹204,522.26** in sales.
 - Most other outlets (established **2012-2017, 2020, 2022**) are clustered in the **₹130k-₹133k** range.
 - The outlet established in **2011** is the lowest performer, with only **₹78,131.57** in sales.
-
-## 7.
-
-![Dashboard Preview](https://github.com/mrinmoy30/Blinkit_Grocery_Sales_Analysis/blob/main/Blinkit%20Dashboard.jpg)
