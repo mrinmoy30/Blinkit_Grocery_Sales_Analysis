@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Performance Analysis
+# 🛒 Blinkit Grocery Sales Analysis
 
 This project aims to conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The primary goal is to identify key insights and optimization opportunities by utilizing various Key Performance Indicators (KPIs) and visualizations within Power BI.
 
