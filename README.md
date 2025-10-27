@@ -4,7 +4,10 @@ This project aims to conduct a comprehensive analysis of Blinkit's sales perform
 
 ---
 
-### [▶️ View the Report (Link)](https://app.powerbi.com/)
+### [▶️ View the Interactive Report (Link)](https://app.powerbi.com/view?r=eyJrIjoiMTYwZTI5NzktZTQ5ZC00ZmJiLWIyZmItNjM0ODAyM2M3ZGFiIiwidCI6ImEzMjAwOGMwLWRhZjgtNDc5Zi1hOTk1LTI4MTVlYThmMTVjZiJ9)
+
+Dashboard Preview 🖥️
+![Dashboard Preview](https://github.com/mrinmoy30/Blinkit_Grocery_Sales_Analysis/blob/main/Blinkit%20Dashboard.jpg)
 
 ---
 
@@ -137,6 +140,6 @@ The following visualizations were created (on a 16:9 canvas) to address the busi
 - Most other outlets (established **2012-2017, 2020, 2022**) are clustered in the **₹130k-₹133k** range.
 - The outlet established in **2011** is the lowest performer, with only **₹78,131.57** in sales.
 
-## 7. Dashboard Preview 🖥️
+## 7.
 
 ![Dashboard Preview](https://github.com/mrinmoy30/Blinkit_Grocery_Sales_Analysis/blob/main/Blinkit%20Dashboard.jpg)
