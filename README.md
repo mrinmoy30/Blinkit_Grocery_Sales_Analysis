@@ -7,7 +7,7 @@ This project aims to conduct a comprehensive analysis of Blinkit's sales perform
 ### [▶️ View the Interactive Report (Link)](https://app.powerbi.com/view?r=eyJrIjoiMTYwZTI5NzktZTQ5ZC00ZmJiLWIyZmItNjM0ODAyM2M3ZGFiIiwidCI6ImEzMjAwOGMwLWRhZjgtNDc5Zi1hOTk1LTI4MTVlYThmMTVjZiJ9)
 
 Dashboard Preview 🖥️
-![Dashboard Preview](https://github.com/mrinmoy30/Blinkit_Grocery_Sales_Analysis/blob/main/Blinkit%20Dashboard.jpg)
+![Dashboard Preview](https://github.com/mrinmoy30/Blinkit_Grocery_Sales_Analysis/blob/main/Blinkit%20Blinkit%20Grocery%20Sales%20Analysis%20Dashboard.jpg)
 
 ---
 
